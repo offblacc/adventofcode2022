@@ -1,0 +1,1308 @@
+current_positions: [(20, 0)], S
+destination: (20, 137), E
+(20, 137)
+
+from pos 'c' indexes (0, 20) stepping to: 
+  pos 'c' indexes (1, 20) 
+  pos 'c' indexes (0, 21) 
+  pos 'a' indexes (0, 19) 
+
+from pos 'c' indexes (1, 20) stepping to: 
+  pos 'c' indexes (2, 20) 
+  pos 'c' indexes (1, 21) 
+  pos 'c' indexes (0, 20) 
+  pos 'c' indexes (1, 19) 
+
+from pos 'c' indexes (0, 21) stepping to: 
+  pos 'c' indexes (0, 22) 
+
+from pos 'a' indexes (0, 19) stepping to: 
+  pos 'a' indexes (0, 18) 
+
+from pos 'c' indexes (2, 20) stepping to: 
+  pos 'c' indexes (3, 20) 
+  pos 'c' indexes (2, 21) 
+  pos 'c' indexes (1, 20) already visited before
+  pos 'a' indexes (2, 19) 
+
+from pos 'c' indexes (1, 21) stepping to: 
+  pos 'c' indexes (1, 22) 
+  pos 'c' indexes (0, 21) already visited before
+  pos 'c' indexes (1, 20) already visited before
+
+from pos 'c' indexes (0, 20) stepping to: 
+  pos 'c' indexes (1, 20) already visited before
+  pos 'c' indexes (0, 21) already visited before
+  pos 'a' indexes (0, 19) already visited before
+
+from pos 'c' indexes (1, 19) stepping to: 
+  pos 'c' indexes (1, 20) already visited before
+  pos 'a' indexes (0, 19) already visited before
+  pos 'a' indexes (1, 18) 
+
+from pos 'c' indexes (0, 22) stepping to: 
+  pos 'c' indexes (0, 23) 
+  pos 'c' indexes (0, 21) already visited before
+
+from pos 'a' indexes (0, 18) stepping to: 
+  pos 'a' indexes (0, 19) already visited before
+  pos 'a' indexes (0, 17) 
+
+from pos 'c' indexes (3, 20) stepping to: 
+  pos 'c' indexes (4, 20) 
+  pos 'c' indexes (3, 21) 
+  pos 'c' indexes (2, 20) already visited before
+  pos 'a' indexes (3, 19) 
+
+from pos 'c' indexes (2, 21) stepping to: 
+  pos 'c' indexes (2, 22) 
+  pos 'c' indexes (1, 21) already visited before
+  pos 'c' indexes (2, 20) already visited before
+
+from pos 'a' indexes (2, 19) stepping to: 
+  pos 'c' indexes (2, 20) already visited before
+  pos 'c' indexes (1, 19) already visited before
+  pos 'a' indexes (2, 18) 
+
+from pos 'c' indexes (1, 22) stepping to: 
+  pos 'c' indexes (1, 23) 
+  pos 'c' indexes (0, 22) already visited before
+  pos 'c' indexes (1, 21) already visited before
+
+from pos 'a' indexes (1, 18) stepping to: 
+  pos 'c' indexes (1, 19) already visited before
+  pos 'a' indexes (0, 18) already visited before
+  pos 'a' indexes (1, 17) 
+
+from pos 'c' indexes (0, 23) stepping to: 
+  pos 'c' indexes (0, 24) 
+  pos 'c' indexes (0, 22) already visited before
+
+from pos 'a' indexes (0, 17) stepping to: 
+  pos 'a' indexes (0, 18) already visited before
+  pos 'a' indexes (0, 16) 
+
+from pos 'c' indexes (4, 20) stepping to: 
+  pos 'c' indexes (5, 20) 
+  pos 'c' indexes (4, 21) 
+  pos 'c' indexes (3, 20) already visited before
+
+from pos 'c' indexes (3, 21) stepping to: 
+  pos 'c' indexes (3, 22) 
+  pos 'c' indexes (2, 21) already visited before
+  pos 'c' indexes (3, 20) already visited before
+
+from pos 'a' indexes (3, 19) stepping to: 
+  pos 'c' indexes (3, 20) already visited before
+  pos 'a' indexes (2, 19) already visited before
+  pos 'a' indexes (3, 18) 
+
+from pos 'c' indexes (2, 22) stepping to: 
+  pos 'c' indexes (2, 23) 
+  pos 'c' indexes (1, 22) already visited before
+  pos 'c' indexes (2, 21) already visited before
+
+from pos 'a' indexes (2, 18) stepping to: 
+  pos 'a' indexes (2, 19) already visited before
+  pos 'a' indexes (1, 18) already visited before
+  pos 'a' indexes (2, 17) 
+
+from pos 'c' indexes (1, 23) stepping to: 
+  pos 'a' indexes (1, 24) 
+  pos 'c' indexes (0, 23) already visited before
+  pos 'c' indexes (1, 22) already visited before
+
+from pos 'a' indexes (1, 17) stepping to: 
+  pos 'a' indexes (1, 18) already visited before
+  pos 'a' indexes (0, 17) already visited before
+  pos 'a' indexes (1, 16) 
+
+from pos 'c' indexes (0, 24) stepping to: 
+  pos 'c' indexes (0, 25) 
+  pos 'c' indexes (0, 23) already visited before
+
+from pos 'a' indexes (0, 16) stepping to: 
+  pos 'a' indexes (0, 17) already visited before
+  pos 'a' indexes (0, 15) 
+
+from pos 'c' indexes (5, 20) stepping to: 
+  pos 'c' indexes (6, 20) 
+  pos 'c' indexes (5, 21) 
+  pos 'c' indexes (4, 20) already visited before
+
+from pos 'c' indexes (4, 21) stepping to: 
+  pos 'c' indexes (4, 22) 
+  pos 'c' indexes (3, 21) already visited before
+  pos 'c' indexes (4, 20) already visited before
+
+from pos 'c' indexes (3, 22) stepping to: 
+  pos 'c' indexes (3, 23) 
+  pos 'c' indexes (2, 22) already visited before
+  pos 'c' indexes (3, 21) already visited before
+
+from pos 'a' indexes (3, 18) stepping to: 
+  pos 'a' indexes (3, 19) already visited before
+  pos 'a' indexes (2, 18) already visited before
+  pos 'a' indexes (3, 17) 
+
+from pos 'c' indexes (2, 23) stepping to: 
+  pos 'c' indexes (2, 24) 
+  pos 'c' indexes (1, 23) already visited before
+  pos 'c' indexes (2, 22) already visited before
+
+from pos 'a' indexes (2, 17) stepping to: 
+  pos 'a' indexes (2, 18) already visited before
+  pos 'a' indexes (1, 17) already visited before
+  pos 'a' indexes (2, 16) 
+
+from pos 'a' indexes (1, 24) stepping to: 
+  pos 'a' indexes (1, 25) 
+  pos 'c' indexes (0, 24) already visited before
+  pos 'c' indexes (1, 23) already visited before
+
+from pos 'a' indexes (1, 16) stepping to: 
+  pos 'a' indexes (1, 17) already visited before
+  pos 'a' indexes (0, 16) already visited before
+  pos 'a' indexes (1, 15) 
+
+from pos 'c' indexes (0, 25) stepping to: 
+  pos 'c' indexes (0, 26) 
+  pos 'c' indexes (0, 24) already visited before
+
+from pos 'a' indexes (0, 15) stepping to: 
+  pos 'a' indexes (0, 16) already visited before
+  pos 'c' indexes (0, 14) 
+
+from pos 'c' indexes (6, 20) stepping to: 
+  pos 'c' indexes (6, 21) 
+  pos 'c' indexes (5, 20) already visited before
+
+from pos 'c' indexes (5, 21) stepping to: 
+  pos 'c' indexes (5, 22) 
+  pos 'c' indexes (4, 21) already visited before
+  pos 'c' indexes (5, 20) already visited before
+
+from pos 'c' indexes (4, 22) stepping to: 
+  pos 'c' indexes (4, 23) 
+  pos 'c' indexes (3, 22) already visited before
+  pos 'c' indexes (4, 21) already visited before
+
+from pos 'c' indexes (3, 23) stepping to: 
+  pos 'c' indexes (3, 24) 
+  pos 'c' indexes (2, 23) already visited before
+  pos 'c' indexes (3, 22) already visited before
+
+from pos 'a' indexes (3, 17) stepping to: 
+  pos 'c' indexes (4, 17) 
+  pos 'a' indexes (3, 18) already visited before
+  pos 'a' indexes (2, 17) already visited before
+  pos 'a' indexes (3, 16) 
+
+from pos 'c' indexes (2, 24) stepping to: 
+  pos 'a' indexes (2, 25) 
+  pos 'a' indexes (1, 24) already visited before
+  pos 'c' indexes (2, 23) already visited before
+
+from pos 'a' indexes (2, 16) stepping to: 
+  pos 'a' indexes (2, 17) already visited before
+  pos 'a' indexes (1, 16) already visited before
+  pos 'a' indexes (2, 15) 
+
+from pos 'a' indexes (1, 25) stepping to: 
+  pos 'a' indexes (1, 26) 
+  pos 'c' indexes (0, 25) already visited before
+  pos 'a' indexes (1, 24) already visited before
+
+from pos 'a' indexes (1, 15) stepping to: 
+  pos 'a' indexes (1, 16) already visited before
+  pos 'a' indexes (0, 15) already visited before
+  pos 'a' indexes (1, 14) 
+
+from pos 'c' indexes (0, 26) stepping to: 
+  pos 'a' indexes (0, 27) 
+  pos 'c' indexes (0, 25) already visited before
+
+from pos 'c' indexes (0, 14) stepping to: 
+  pos 'a' indexes (0, 15) already visited before
+  pos 'c' indexes (0, 13) 
+
+from pos 'c' indexes (6, 21) stepping to: 
+  pos 'c' indexes (6, 22) 
+  pos 'c' indexes (5, 21) already visited before
+  pos 'c' indexes (6, 20) already visited before
+
+from pos 'c' indexes (5, 22) stepping to: 
+  pos 'c' indexes (5, 23) 
+  pos 'c' indexes (4, 22) already visited before
+  pos 'c' indexes (5, 21) already visited before
+
+from pos 'c' indexes (4, 23) stepping to: 
+  pos 'a' indexes (4, 24) 
+  pos 'c' indexes (3, 23) already visited before
+  pos 'c' indexes (4, 22) already visited before
+
+from pos 'c' indexes (3, 24) stepping to: 
+  pos 'a' indexes (3, 25) 
+  pos 'c' indexes (2, 24) already visited before
+  pos 'c' indexes (3, 23) already visited before
+
+from pos 'c' indexes (4, 17) stepping to: 
+  pos 'a' indexes (3, 17) already visited before
+  pos 'a' indexes (4, 16) 
+
+from pos 'a' indexes (3, 16) stepping to: 
+  pos 'a' indexes (3, 17) already visited before
+  pos 'a' indexes (2, 16) already visited before
+  pos 'c' indexes (3, 15) 
+
+from pos 'a' indexes (2, 25) stepping to: 
+  pos 'a' indexes (2, 26) 
+  pos 'a' indexes (1, 25) already visited before
+  pos 'c' indexes (2, 24) already visited before
+
+from pos 'a' indexes (2, 15) stepping to: 
+  pos 'a' indexes (2, 16) already visited before
+  pos 'a' indexes (1, 15) already visited before
+  pos 'a' indexes (2, 14) 
+
+from pos 'a' indexes (1, 26) stepping to: 
+  pos 'a' indexes (1, 27) 
+  pos 'c' indexes (0, 26) already visited before
+  pos 'a' indexes (1, 25) already visited before
+
+from pos 'a' indexes (1, 14) stepping to: 
+  pos 'a' indexes (1, 15) already visited before
+  pos 'c' indexes (0, 14) already visited before
+  pos 'c' indexes (1, 13) 
+
+from pos 'a' indexes (0, 27) stepping to: 
+  pos 'a' indexes (0, 28) 
+  pos 'c' indexes (0, 26) already visited before
+
+from pos 'c' indexes (0, 13) stepping to: 
+  pos 'c' indexes (0, 14) already visited before
+  pos 'c' indexes (0, 12) 
+
+from pos 'c' indexes (6, 22) stepping to: 
+  pos 'c' indexes (5, 22) already visited before
+  pos 'c' indexes (6, 21) already visited before
+
+from pos 'c' indexes (5, 23) stepping to: 
+  pos 'c' indexes (5, 24) 
+  pos 'c' indexes (4, 23) already visited before
+  pos 'c' indexes (5, 22) already visited before
+
+from pos 'a' indexes (4, 24) stepping to: 
+  pos 'a' indexes (4, 25) 
+  pos 'c' indexes (3, 24) already visited before
+  pos 'c' indexes (4, 23) already visited before
+
+from pos 'a' indexes (3, 25) stepping to: 
+  pos 'a' indexes (2, 25) already visited before
+  pos 'c' indexes (3, 24) already visited before
+
+from pos 'a' indexes (4, 16) stepping to: 
+  pos 'c' indexes (5, 16) 
+  pos 'c' indexes (4, 17) already visited before
+  pos 'a' indexes (3, 16) already visited before
+  pos 'c' indexes (4, 15) 
+
+from pos 'c' indexes (3, 15) stepping to: 
+  pos 'a' indexes (3, 16) already visited before
+  pos 'a' indexes (2, 15) already visited before
+  pos 'c' indexes (3, 14) 
+
+from pos 'a' indexes (2, 26) stepping to: 
+  pos 'a' indexes (1, 26) already visited before
+  pos 'a' indexes (2, 25) already visited before
+
+from pos 'a' indexes (2, 14) stepping to: 
+  pos 'a' indexes (2, 15) already visited before
+  pos 'a' indexes (1, 14) already visited before
+  pos 'c' indexes (2, 13) 
+
+from pos 'a' indexes (1, 27) stepping to: 
+  pos 'a' indexes (2, 27) 
+  pos 'a' indexes (1, 28) 
+  pos 'a' indexes (0, 27) already visited before
+  pos 'a' indexes (1, 26) already visited before
+
+from pos 'c' indexes (1, 13) stepping to: 
+  pos 'a' indexes (1, 14) already visited before
+  pos 'c' indexes (0, 13) already visited before
+  pos 'c' indexes (1, 12) 
+
+from pos 'a' indexes (0, 28) stepping to: 
+  pos 'c' indexes (0, 29) 
+  pos 'a' indexes (0, 27) already visited before
+
+from pos 'c' indexes (0, 12) stepping to: 
+  pos 'c' indexes (0, 13) already visited before
+  pos 'c' indexes (0, 11) 
+
+from pos 'c' indexes (5, 24) stepping to: 
+  pos 'c' indexes (6, 24) 
+  pos 'c' indexes (5, 25) 
+  pos 'a' indexes (4, 24) already visited before
+  pos 'c' indexes (5, 23) already visited before
+
+from pos 'a' indexes (4, 25) stepping to: 
+  pos 'a' indexes (3, 25) already visited before
+  pos 'a' indexes (4, 24) already visited before
+
+from pos 'c' indexes (5, 16) stepping to: 
+  pos 'a' indexes (4, 16) already visited before
+  pos 'c' indexes (5, 15) 
+
+from pos 'c' indexes (4, 15) stepping to: 
+  pos 'a' indexes (4, 16) already visited before
+  pos 'c' indexes (3, 15) already visited before
+
+from pos 'c' indexes (3, 14) stepping to: 
+  pos 'c' indexes (3, 15) already visited before
+  pos 'a' indexes (2, 14) already visited before
+  pos 'c' indexes (3, 13) 
+
+from pos 'c' indexes (2, 13) stepping to: 
+  pos 'a' indexes (2, 14) already visited before
+  pos 'c' indexes (1, 13) already visited before
+  pos 'c' indexes (2, 12) 
+
+from pos 'a' indexes (2, 27) stepping to: 
+  pos 'a' indexes (3, 27) 
+  pos 'a' indexes (2, 28) 
+  pos 'a' indexes (1, 27) already visited before
+
+from pos 'a' indexes (1, 28) stepping to: 
+  pos 'c' indexes (1, 29) 
+  pos 'a' indexes (0, 28) already visited before
+  pos 'a' indexes (1, 27) already visited before
+
+from pos 'c' indexes (1, 12) stepping to: 
+  pos 'c' indexes (1, 13) already visited before
+  pos 'c' indexes (0, 12) already visited before
+  pos 'a' indexes (1, 11) 
+
+from pos 'c' indexes (0, 29) stepping to: 
+  pos 'c' indexes (0, 30) 
+  pos 'a' indexes (0, 28) already visited before
+
+from pos 'c' indexes (0, 11) stepping to: 
+  pos 'c' indexes (0, 12) already visited before
+  pos 'a' indexes (0, 10) 
+
+from pos 'c' indexes (6, 24) stepping to: 
+  pos 'c' indexes (6, 25) 
+  pos 'c' indexes (5, 24) already visited before
+
+from pos 'c' indexes (5, 25) stepping to: 
+  pos 'a' indexes (4, 25) already visited before
+  pos 'c' indexes (5, 24) already visited before
+
+from pos 'c' indexes (5, 15) stepping to: 
+  pos 'c' indexes (5, 16) already visited before
+  pos 'c' indexes (4, 15) already visited before
+
+from pos 'c' indexes (3, 13) stepping to: 
+  pos 'c' indexes (3, 14) already visited before
+  pos 'c' indexes (2, 13) already visited before
+  pos 'c' indexes (3, 12) 
+
+from pos 'c' indexes (2, 12) stepping to: 
+  pos 'c' indexes (2, 13) already visited before
+  pos 'c' indexes (1, 12) already visited before
+
+from pos 'a' indexes (3, 27) stepping to: 
+  pos 'a' indexes (4, 27) 
+  pos 'a' indexes (3, 28) 
+  pos 'a' indexes (2, 27) already visited before
+  pos 'a' indexes (3, 26) 
+
+from pos 'a' indexes (2, 28) stepping to: 
+  pos 'a' indexes (1, 28) already visited before
+  pos 'a' indexes (2, 27) already visited before
+
+from pos 'c' indexes (1, 29) stepping to: 
+  pos 'a' indexes (2, 29) 
+  pos 'c' indexes (1, 30) 
+  pos 'c' indexes (0, 29) already visited before
+  pos 'a' indexes (1, 28) already visited before
+
+from pos 'a' indexes (1, 11) stepping to: 
+  pos 'a' indexes (2, 11) 
+  pos 'c' indexes (1, 12) already visited before
+  pos 'c' indexes (0, 11) already visited before
+  pos 'a' indexes (1, 10) 
+
+from pos 'c' indexes (0, 30) stepping to: 
+  pos 'c' indexes (0, 31) 
+  pos 'c' indexes (0, 29) already visited before
+
+from pos 'a' indexes (0, 10) stepping to: 
+  pos 'c' indexes (0, 11) already visited before
+  pos 'c' indexes (0, 9) 
+
+from pos 'c' indexes (6, 25) stepping to: 
+  pos 'c' indexes (5, 25) already visited before
+  pos 'c' indexes (6, 24) already visited before
+
+from pos 'c' indexes (3, 12) stepping to: 
+  pos 'c' indexes (3, 13) already visited before
+  pos 'c' indexes (2, 12) already visited before
+
+from pos 'a' indexes (4, 27) stepping to: 
+  pos 'a' indexes (5, 27) 
+  pos 'a' indexes (4, 28) 
+  pos 'a' indexes (3, 27) already visited before
+  pos 'a' indexes (4, 26) 
+
+from pos 'a' indexes (3, 28) stepping to: 
+  pos 'a' indexes (2, 28) already visited before
+  pos 'a' indexes (3, 27) already visited before
+
+from pos 'a' indexes (3, 26) stepping to: 
+  pos 'a' indexes (3, 27) already visited before
+
+from pos 'a' indexes (2, 29) stepping to: 
+  pos 'a' indexes (3, 29) 
+  pos 'c' indexes (2, 30) 
+  pos 'c' indexes (1, 29) already visited before
+
+from pos 'c' indexes (1, 30) stepping to: 
+  pos 'c' indexes (1, 31) 
+  pos 'c' indexes (0, 30) already visited before
+  pos 'c' indexes (1, 29) already visited before
+
+from pos 'a' indexes (2, 11) stepping to: 
+  pos 'c' indexes (3, 11) 
+  pos 'a' indexes (1, 11) already visited before
+  pos 'a' indexes (2, 10) 
+
+from pos 'a' indexes (1, 10) stepping to: 
+  pos 'a' indexes (1, 11) already visited before
+  pos 'a' indexes (0, 10) already visited before
+  pos 'a' indexes (1, 9) 
+
+from pos 'c' indexes (0, 31) stepping to: 
+  pos 'c' indexes (0, 32) 
+  pos 'c' indexes (0, 30) already visited before
+
+from pos 'c' indexes (0, 9) stepping to: 
+  pos 'a' indexes (0, 10) already visited before
+  pos 'a' indexes (0, 8) 
+
+from pos 'a' indexes (5, 27) stepping to: 
+  pos 'c' indexes (6, 27) 
+  pos 'a' indexes (5, 28) 
+  pos 'a' indexes (4, 27) already visited before
+  pos 'c' indexes (5, 26) 
+
+from pos 'a' indexes (4, 28) stepping to: 
+  pos 'a' indexes (3, 28) already visited before
+  pos 'a' indexes (4, 27) already visited before
+
+from pos 'a' indexes (4, 26) stepping to: 
+  pos 'a' indexes (4, 27) already visited before
+  pos 'a' indexes (3, 26) already visited before
+
+from pos 'a' indexes (3, 29) stepping to: 
+  pos 'c' indexes (4, 29) 
+  pos 'c' indexes (3, 30) 
+  pos 'a' indexes (2, 29) already visited before
+
+from pos 'c' indexes (2, 30) stepping to: 
+  pos 'c' indexes (2, 31) 
+  pos 'c' indexes (1, 30) already visited before
+  pos 'a' indexes (2, 29) already visited before
+
+from pos 'c' indexes (1, 31) stepping to: 
+  pos 'c' indexes (1, 32) 
+  pos 'c' indexes (0, 31) already visited before
+  pos 'c' indexes (1, 30) already visited before
+
+from pos 'c' indexes (3, 11) stepping to: 
+  pos 'c' indexes (4, 11) 
+  pos 'a' indexes (2, 11) already visited before
+  pos 'c' indexes (3, 10) 
+
+from pos 'a' indexes (2, 10) stepping to: 
+  pos 'a' indexes (2, 11) already visited before
+  pos 'a' indexes (1, 10) already visited before
+
+from pos 'a' indexes (1, 9) stepping to: 
+  pos 'a' indexes (2, 9) 
+  pos 'a' indexes (1, 10) already visited before
+  pos 'c' indexes (0, 9) already visited before
+  pos 'a' indexes (1, 8) 
+
+from pos 'c' indexes (0, 32) stepping to: 
+  pos 'c' indexes (0, 33) 
+  pos 'c' indexes (0, 31) already visited before
+
+from pos 'a' indexes (0, 8) stepping to: 
+  pos 'c' indexes (0, 9) already visited before
+  pos 'a' indexes (0, 7) 
+
+from pos 'c' indexes (6, 27) stepping to: 
+  pos 'c' indexes (7, 27) 
+  pos 'c' indexes (6, 28) 
+  pos 'a' indexes (5, 27) already visited before
+  pos 'c' indexes (6, 26) 
+
+from pos 'a' indexes (5, 28) stepping to: 
+  pos 'c' indexes (5, 29) 
+  pos 'a' indexes (4, 28) already visited before
+  pos 'a' indexes (5, 27) already visited before
+
+from pos 'c' indexes (5, 26) stepping to: 
+  pos 'a' indexes (5, 27) already visited before
+  pos 'a' indexes (4, 26) already visited before
+
+from pos 'c' indexes (4, 29) stepping to: 
+  pos 'c' indexes (4, 30) 
+  pos 'a' indexes (3, 29) already visited before
+
+from pos 'c' indexes (3, 30) stepping to: 
+  pos 'c' indexes (3, 31) 
+  pos 'c' indexes (2, 30) already visited before
+  pos 'a' indexes (3, 29) already visited before
+
+from pos 'c' indexes (2, 31) stepping to: 
+  pos 'c' indexes (2, 32) 
+  pos 'c' indexes (1, 31) already visited before
+  pos 'c' indexes (2, 30) already visited before
+
+from pos 'c' indexes (1, 32) stepping to: 
+  pos 'c' indexes (1, 33) 
+  pos 'c' indexes (0, 32) already visited before
+  pos 'c' indexes (1, 31) already visited before
+
+from pos 'c' indexes (4, 11) stepping to: 
+  pos 'a' indexes (5, 11) 
+  pos 'c' indexes (4, 12) 
+  pos 'c' indexes (3, 11) already visited before
+  pos 'a' indexes (4, 10) 
+
+from pos 'c' indexes (3, 10) stepping to: 
+  pos 'c' indexes (3, 11) already visited before
+  pos 'a' indexes (2, 10) already visited before
+
+from pos 'a' indexes (2, 9) stepping to: 
+  pos 'a' indexes (3, 9) 
+  pos 'a' indexes (1, 9) already visited before
+  pos 'a' indexes (2, 8) 
+
+from pos 'a' indexes (1, 8) stepping to: 
+  pos 'a' indexes (1, 9) already visited before
+  pos 'a' indexes (0, 8) already visited before
+  pos 'a' indexes (1, 7) 
+
+from pos 'c' indexes (0, 33) stepping to: 
+  pos 'c' indexes (0, 34) 
+  pos 'c' indexes (0, 32) already visited before
+
+from pos 'a' indexes (0, 7) stepping to: 
+  pos 'a' indexes (0, 8) already visited before
+  pos 'a' indexes (0, 6) 
+
+from pos 'c' indexes (7, 27) stepping to: 
+  pos 'c' indexes (8, 27) 
+  pos 'c' indexes (7, 28) 
+  pos 'c' indexes (6, 27) already visited before
+  pos 'c' indexes (7, 26) 
+
+from pos 'c' indexes (6, 28) stepping to: 
+  pos 'c' indexes (6, 29) 
+  pos 'a' indexes (5, 28) already visited before
+  pos 'c' indexes (6, 27) already visited before
+
+from pos 'c' indexes (6, 26) stepping to: 
+  pos 'c' indexes (6, 27) already visited before
+  pos 'c' indexes (5, 26) already visited before
+
+from pos 'c' indexes (5, 29) stepping to: 
+  pos 'c' indexes (5, 30) 
+  pos 'a' indexes (5, 28) already visited before
+
+from pos 'c' indexes (4, 30) stepping to: 
+  pos 'c' indexes (4, 31) 
+  pos 'c' indexes (3, 30) already visited before
+  pos 'c' indexes (4, 29) already visited before
+
+from pos 'c' indexes (3, 31) stepping to: 
+  pos 'c' indexes (3, 32) 
+  pos 'c' indexes (2, 31) already visited before
+  pos 'c' indexes (3, 30) already visited before
+
+from pos 'c' indexes (2, 32) stepping to: 
+  pos 'c' indexes (2, 33) 
+  pos 'c' indexes (1, 32) already visited before
+  pos 'c' indexes (2, 31) already visited before
+
+from pos 'c' indexes (1, 33) stepping to: 
+  pos 'c' indexes (1, 34) 
+  pos 'c' indexes (0, 33) already visited before
+  pos 'c' indexes (1, 32) already visited before
+
+from pos 'a' indexes (5, 11) stepping to: 
+  pos 'a' indexes (6, 11) 
+  pos 'a' indexes (5, 12) 
+  pos 'c' indexes (4, 11) already visited before
+  pos 'a' indexes (5, 10) 
+
+from pos 'c' indexes (4, 12) stepping to: 
+  pos 'c' indexes (4, 13) 
+  pos 'c' indexes (4, 11) already visited before
+
+from pos 'a' indexes (4, 10) stepping to: 
+  pos 'c' indexes (4, 11) already visited before
+  pos 'c' indexes (3, 10) already visited before
+
+from pos 'a' indexes (3, 9) stepping to: 
+  pos 'a' indexes (4, 9) 
+  pos 'a' indexes (2, 9) already visited before
+  pos 'a' indexes (3, 8) 
+
+from pos 'a' indexes (2, 8) stepping to: 
+  pos 'a' indexes (2, 9) already visited before
+  pos 'a' indexes (1, 8) already visited before
+  pos 'a' indexes (2, 7) 
+
+from pos 'a' indexes (1, 7) stepping to: 
+  pos 'a' indexes (1, 8) already visited before
+  pos 'a' indexes (0, 7) already visited before
+  pos 'c' indexes (1, 6) 
+
+from pos 'c' indexes (0, 34) stepping to: 
+  pos 'c' indexes (0, 35) 
+  pos 'c' indexes (0, 33) already visited before
+
+from pos 'a' indexes (0, 6) stepping to: 
+  pos 'a' indexes (0, 7) already visited before
+  pos 'c' indexes (0, 5) 
+
+from pos 'c' indexes (8, 27) stepping to: 
+  pos 'c' indexes (9, 27) 
+  pos 'c' indexes (8, 28) 
+  pos 'c' indexes (7, 27) already visited before
+  pos 'c' indexes (8, 26) 
+
+from pos 'c' indexes (7, 28) stepping to: 
+  pos 'c' indexes (6, 28) already visited before
+  pos 'c' indexes (7, 27) already visited before
+
+from pos 'c' indexes (7, 26) stepping to: 
+  pos 'c' indexes (7, 27) already visited before
+  pos 'c' indexes (6, 26) already visited before
+  pos 'c' indexes (7, 25) 
+
+from pos 'c' indexes (6, 29) stepping to: 
+  pos 'c' indexes (6, 30) 
+  pos 'c' indexes (5, 29) already visited before
+  pos 'c' indexes (6, 28) already visited before
+
+from pos 'c' indexes (5, 30) stepping to: 
+  pos 'c' indexes (5, 31) 
+  pos 'c' indexes (5, 29) already visited before
+
+from pos 'c' indexes (4, 31) stepping to: 
+  pos 'c' indexes (4, 32) 
+  pos 'c' indexes (3, 31) already visited before
+  pos 'c' indexes (4, 30) already visited before
+
+from pos 'c' indexes (3, 32) stepping to: 
+  pos 'c' indexes (3, 33) 
+  pos 'c' indexes (2, 32) already visited before
+  pos 'c' indexes (3, 31) already visited before
+
+from pos 'c' indexes (2, 33) stepping to: 
+  pos 'c' indexes (2, 34) 
+  pos 'c' indexes (1, 33) already visited before
+  pos 'c' indexes (2, 32) already visited before
+
+from pos 'c' indexes (1, 34) stepping to: 
+  pos 'c' indexes (1, 35) 
+  pos 'c' indexes (0, 34) already visited before
+  pos 'c' indexes (1, 33) already visited before
+
+from pos 'a' indexes (6, 11) stepping to: 
+  pos 'a' indexes (7, 11) 
+  pos 'a' indexes (6, 12) 
+  pos 'a' indexes (5, 11) already visited before
+  pos 'a' indexes (6, 10) 
+
+from pos 'a' indexes (5, 12) stepping to: 
+  pos 'c' indexes (5, 13) 
+  pos 'c' indexes (4, 12) already visited before
+  pos 'a' indexes (5, 11) already visited before
+
+from pos 'a' indexes (5, 10) stepping to: 
+  pos 'a' indexes (5, 11) already visited before
+  pos 'a' indexes (4, 10) already visited before
+  pos 'a' indexes (5, 9) 
+
+from pos 'c' indexes (4, 13) stepping to: 
+  pos 'c' indexes (4, 14) 
+  pos 'c' indexes (4, 12) already visited before
+
+from pos 'a' indexes (4, 9) stepping to: 
+  pos 'a' indexes (3, 9) already visited before
+  pos 'a' indexes (4, 8) 
+
+from pos 'a' indexes (3, 8) stepping to: 
+  pos 'a' indexes (3, 9) already visited before
+  pos 'a' indexes (2, 8) already visited before
+  pos 'a' indexes (3, 7) 
+
+from pos 'a' indexes (2, 7) stepping to: 
+  pos 'a' indexes (2, 8) already visited before
+  pos 'a' indexes (1, 7) already visited before
+  pos 'a' indexes (2, 6) 
+
+from pos 'c' indexes (1, 6) stepping to: 
+  pos 'a' indexes (1, 7) already visited before
+  pos 'a' indexes (0, 6) already visited before
+  pos 'a' indexes (1, 5) 
+
+from pos 'c' indexes (0, 35) stepping to: 
+  pos 'c' indexes (0, 36) 
+  pos 'c' indexes (0, 34) already visited before
+
+from pos 'c' indexes (0, 5) stepping to: 
+  pos 'a' indexes (0, 6) already visited before
+  pos 'c' indexes (0, 4) 
+
+from pos 'c' indexes (9, 27) stepping to: 
+  pos 'c' indexes (10, 27) 
+  pos 'c' indexes (8, 27) already visited before
+  pos 'c' indexes (9, 26) 
+
+from pos 'c' indexes (8, 28) stepping to: 
+  pos 'c' indexes (7, 28) already visited before
+  pos 'c' indexes (8, 27) already visited before
+
+from pos 'c' indexes (8, 26) stepping to: 
+  pos 'c' indexes (8, 27) already visited before
+  pos 'c' indexes (7, 26) already visited before
+  pos 'c' indexes (8, 25) 
+
+from pos 'c' indexes (7, 25) stepping to: 
+  pos 'c' indexes (7, 26) already visited before
+  pos 'c' indexes (7, 24) 
+
+from pos 'c' indexes (6, 30) stepping to: 
+  pos 'c' indexes (6, 31) 
+  pos 'c' indexes (5, 30) already visited before
+  pos 'c' indexes (6, 29) already visited before
+
+from pos 'c' indexes (5, 31) stepping to: 
+  pos 'c' indexes (5, 32) 
+  pos 'c' indexes (5, 30) already visited before
+
+from pos 'c' indexes (4, 32) stepping to: 
+  pos 'c' indexes (4, 33) 
+  pos 'c' indexes (3, 32) already visited before
+  pos 'c' indexes (4, 31) already visited before
+
+from pos 'c' indexes (3, 33) stepping to: 
+  pos 'c' indexes (2, 33) already visited before
+  pos 'c' indexes (3, 32) already visited before
+
+from pos 'c' indexes (2, 34) stepping to: 
+  pos 'c' indexes (1, 34) already visited before
+  pos 'c' indexes (2, 33) already visited before
+
+from pos 'c' indexes (1, 35) stepping to: 
+  pos 'c' indexes (2, 35) 
+  pos 'c' indexes (1, 36) 
+  pos 'c' indexes (0, 35) already visited before
+  pos 'c' indexes (1, 34) already visited before
+
+from pos 'a' indexes (7, 11) stepping to: 
+  pos 'a' indexes (8, 11) 
+  pos 'a' indexes (6, 11) already visited before
+  pos 'a' indexes (7, 10) 
+
+from pos 'a' indexes (6, 12) stepping to: 
+  pos 'c' indexes (6, 13) 
+  pos 'a' indexes (5, 12) already visited before
+  pos 'a' indexes (6, 11) already visited before
+
+from pos 'a' indexes (6, 10) stepping to: 
+  pos 'a' indexes (6, 11) already visited before
+  pos 'a' indexes (5, 10) already visited before
+  pos 'c' indexes (6, 9) 
+
+from pos 'c' indexes (5, 13) stepping to: 
+  pos 'c' indexes (5, 14) 
+  pos 'c' indexes (4, 13) already visited before
+  pos 'a' indexes (5, 12) already visited before
+
+from pos 'a' indexes (5, 9) stepping to: 
+  pos 'a' indexes (5, 10) already visited before
+  pos 'c' indexes (5, 8) 
+
+from pos 'c' indexes (4, 14) stepping to: 
+  pos 'c' indexes (4, 13) already visited before
+
+from pos 'a' indexes (4, 8) stepping to: 
+  pos 'a' indexes (4, 9) already visited before
+  pos 'a' indexes (3, 8) already visited before
+
+from pos 'a' indexes (3, 7) stepping to: 
+  pos 'a' indexes (3, 8) already visited before
+  pos 'a' indexes (2, 7) already visited before
+  pos 'a' indexes (3, 6) 
+
+from pos 'a' indexes (2, 6) stepping to: 
+  pos 'a' indexes (2, 7) already visited before
+  pos 'c' indexes (1, 6) already visited before
+  pos 'a' indexes (2, 5) 
+
+from pos 'a' indexes (1, 5) stepping to: 
+  pos 'c' indexes (1, 6) already visited before
+  pos 'c' indexes (0, 5) already visited before
+  pos 'a' indexes (1, 4) 
+
+from pos 'c' indexes (0, 36) stepping to: 
+  pos 'a' indexes (0, 37) 
+  pos 'c' indexes (0, 35) already visited before
+
+from pos 'c' indexes (0, 4) stepping to: 
+  pos 'c' indexes (0, 5) already visited before
+  pos 'c' indexes (0, 3) 
+
+from pos 'c' indexes (10, 27) stepping to: 
+  pos 'c' indexes (11, 27) 
+  pos 'c' indexes (9, 27) already visited before
+  pos 'c' indexes (10, 26) 
+
+from pos 'c' indexes (9, 26) stepping to: 
+  pos 'c' indexes (9, 27) already visited before
+  pos 'c' indexes (8, 26) already visited before
+  pos 'c' indexes (9, 25) 
+
+from pos 'c' indexes (8, 25) stepping to: 
+  pos 'c' indexes (8, 26) already visited before
+  pos 'c' indexes (7, 25) already visited before
+  pos 'c' indexes (8, 24) 
+
+from pos 'c' indexes (7, 24) stepping to: 
+  pos 'c' indexes (7, 25) already visited before
+  pos 'c' indexes (7, 23) 
+
+from pos 'c' indexes (6, 31) stepping to: 
+  pos 'c' indexes (6, 32) 
+  pos 'c' indexes (5, 31) already visited before
+  pos 'c' indexes (6, 30) already visited before
+
+from pos 'c' indexes (5, 32) stepping to: 
+  pos 'c' indexes (5, 33) 
+  pos 'c' indexes (5, 31) already visited before
+
+from pos 'c' indexes (4, 33) stepping to: 
+  pos 'c' indexes (3, 33) already visited before
+  pos 'c' indexes (4, 32) already visited before
+
+from pos 'c' indexes (2, 35) stepping to: 
+  pos 'a' indexes (3, 35) 
+  pos 'a' indexes (2, 36) 
+  pos 'c' indexes (1, 35) already visited before
+
+from pos 'c' indexes (1, 36) stepping to: 
+  pos 'a' indexes (1, 37) 
+  pos 'c' indexes (0, 36) already visited before
+  pos 'c' indexes (1, 35) already visited before
+
+from pos 'a' indexes (8, 11) stepping to: 
+  pos 'a' indexes (8, 12) 
+  pos 'a' indexes (7, 11) already visited before
+  pos 'a' indexes (8, 10) 
+
+from pos 'a' indexes (7, 10) stepping to: 
+  pos 'a' indexes (7, 11) already visited before
+  pos 'a' indexes (6, 10) already visited before
+  pos 'a' indexes (7, 9) 
+
+from pos 'c' indexes (6, 13) stepping to: 
+  pos 'a' indexes (6, 14) 
+  pos 'c' indexes (5, 13) already visited before
+  pos 'a' indexes (6, 12) already visited before
+
+from pos 'c' indexes (6, 9) stepping to: 
+  pos 'a' indexes (6, 10) already visited before
+  pos 'a' indexes (5, 9) already visited before
+  pos 'c' indexes (6, 8) 
+
+from pos 'c' indexes (5, 14) stepping to: 
+  pos 'c' indexes (4, 14) already visited before
+  pos 'c' indexes (5, 13) already visited before
+
+from pos 'c' indexes (5, 8) stepping to: 
+  pos 'a' indexes (5, 9) already visited before
+  pos 'a' indexes (5, 7) 
+
+from pos 'a' indexes (3, 6) stepping to: 
+  pos 'a' indexes (3, 7) already visited before
+  pos 'a' indexes (2, 6) already visited before
+  pos 'a' indexes (3, 5) 
+
+from pos 'a' indexes (2, 5) stepping to: 
+  pos 'a' indexes (2, 6) already visited before
+  pos 'a' indexes (1, 5) already visited before
+  pos 'a' indexes (2, 4) 
+
+from pos 'a' indexes (1, 4) stepping to: 
+  pos 'a' indexes (1, 5) already visited before
+  pos 'c' indexes (0, 4) already visited before
+  pos 'c' indexes (1, 3) 
+
+from pos 'a' indexes (0, 37) stepping to: 
+  pos 'a' indexes (0, 38) 
+  pos 'c' indexes (0, 36) already visited before
+
+from pos 'c' indexes (0, 3) stepping to: 
+  pos 'c' indexes (0, 4) already visited before
+  pos 'c' indexes (0, 2) 
+
+from pos 'c' indexes (11, 27) stepping to: 
+  pos 'c' indexes (12, 27) 
+  pos 'c' indexes (10, 27) already visited before
+  pos 'c' indexes (11, 26) 
+
+from pos 'c' indexes (10, 26) stepping to: 
+  pos 'c' indexes (10, 27) already visited before
+  pos 'c' indexes (9, 26) already visited before
+  pos 'c' indexes (10, 25) 
+
+from pos 'c' indexes (9, 25) stepping to: 
+  pos 'c' indexes (9, 26) already visited before
+  pos 'c' indexes (8, 25) already visited before
+  pos 'c' indexes (9, 24) 
+
+from pos 'c' indexes (8, 24) stepping to: 
+  pos 'c' indexes (8, 25) already visited before
+  pos 'c' indexes (7, 24) already visited before
+  pos 'c' indexes (8, 23) 
+
+from pos 'c' indexes (7, 23) stepping to: 
+  pos 'c' indexes (7, 24) already visited before
+  pos 'c' indexes (6, 23) 
+  pos 'c' indexes (7, 22) 
+
+from pos 'c' indexes (6, 32) stepping to: 
+  pos 'c' indexes (6, 33) 
+  pos 'c' indexes (5, 32) already visited before
+  pos 'c' indexes (6, 31) already visited before
+
+from pos 'c' indexes (5, 33) stepping to: 
+  pos 'c' indexes (5, 34) 
+  pos 'c' indexes (5, 32) already visited before
+
+from pos 'a' indexes (3, 35) stepping to: 
+  pos 'a' indexes (4, 35) 
+  pos 'a' indexes (3, 36) 
+  pos 'c' indexes (2, 35) already visited before
+  pos 'c' indexes (3, 34) 
+
+from pos 'a' indexes (2, 36) stepping to: 
+  pos 'a' indexes (2, 37) 
+  pos 'c' indexes (1, 36) already visited before
+  pos 'c' indexes (2, 35) already visited before
+
+from pos 'a' indexes (1, 37) stepping to: 
+  pos 'a' indexes (1, 38) 
+  pos 'a' indexes (0, 37) already visited before
+  pos 'c' indexes (1, 36) already visited before
+
+from pos 'a' indexes (8, 12) stepping to: 
+  pos 'a' indexes (9, 12) 
+  pos 'a' indexes (8, 11) already visited before
+
+from pos 'a' indexes (8, 10) stepping to: 
+  pos 'a' indexes (9, 10) 
+  pos 'a' indexes (8, 11) already visited before
+  pos 'a' indexes (7, 10) already visited before
+  pos 'a' indexes (8, 9) 
+
+from pos 'a' indexes (7, 9) stepping to: 
+  pos 'a' indexes (7, 10) already visited before
+  pos 'c' indexes (6, 9) already visited before
+  pos 'a' indexes (7, 8) 
+
+from pos 'a' indexes (6, 14) stepping to: 
+  pos 'c' indexes (6, 15) 
+  pos 'c' indexes (5, 14) already visited before
+  pos 'c' indexes (6, 13) already visited before
+
+from pos 'c' indexes (6, 8) stepping to: 
+  pos 'c' indexes (6, 9) already visited before
+  pos 'c' indexes (5, 8) already visited before
+  pos 'a' indexes (6, 7) 
+
+from pos 'a' indexes (5, 7) stepping to: 
+  pos 'c' indexes (5, 8) already visited before
+  pos 'a' indexes (4, 7) 
+  pos 'a' indexes (5, 6) 
+
+from pos 'a' indexes (3, 5) stepping to: 
+  pos 'c' indexes (4, 5) 
+  pos 'a' indexes (3, 6) already visited before
+  pos 'a' indexes (2, 5) already visited before
+  pos 'c' indexes (3, 4) 
+
+from pos 'a' indexes (2, 4) stepping to: 
+  pos 'a' indexes (2, 5) already visited before
+  pos 'a' indexes (1, 4) already visited before
+
+from pos 'c' indexes (1, 3) stepping to: 
+  pos 'c' indexes (2, 3) 
+  pos 'a' indexes (1, 4) already visited before
+  pos 'c' indexes (0, 3) already visited before
+  pos 'c' indexes (1, 2) 
+
+from pos 'a' indexes (0, 38) stepping to: 
+  pos 'a' indexes (0, 39) 
+  pos 'a' indexes (0, 37) already visited before
+
+from pos 'c' indexes (0, 2) stepping to: 
+  pos 'c' indexes (0, 3) already visited before
+  pos 'b' indexes (0, 1) 
+
+from pos 'c' indexes (12, 27) stepping to: 
+  pos 'c' indexes (13, 27) 
+  pos 'c' indexes (12, 28) 
+  pos 'c' indexes (11, 27) already visited before
+  pos 'c' indexes (12, 26) 
+
+from pos 'c' indexes (11, 26) stepping to: 
+  pos 'c' indexes (11, 27) already visited before
+  pos 'c' indexes (10, 26) already visited before
+  pos 'c' indexes (11, 25) 
+
+from pos 'c' indexes (10, 25) stepping to: 
+  pos 'c' indexes (10, 26) already visited before
+  pos 'c' indexes (9, 25) already visited before
+  pos 'c' indexes (10, 24) 
+
+from pos 'c' indexes (9, 24) stepping to: 
+  pos 'c' indexes (9, 25) already visited before
+  pos 'c' indexes (8, 24) already visited before
+  pos 'c' indexes (9, 23) 
+
+from pos 'c' indexes (8, 23) stepping to: 
+  pos 'c' indexes (8, 24) already visited before
+  pos 'c' indexes (7, 23) already visited before
+  pos 'c' indexes (8, 22) 
+
+from pos 'c' indexes (6, 23) stepping to: 
+  pos 'c' indexes (7, 23) already visited before
+
+from pos 'c' indexes (7, 22) stepping to: 
+  pos 'c' indexes (7, 23) already visited before
+  pos 'c' indexes (7, 21) 
+
+from pos 'c' indexes (6, 33) stepping to: 
+  pos 'c' indexes (7, 33) 
+  pos 'c' indexes (6, 34) 
+  pos 'c' indexes (5, 33) already visited before
+  pos 'c' indexes (6, 32) already visited before
+
+from pos 'c' indexes (5, 34) stepping to: 
+  pos 'a' indexes (5, 35) 
+  pos 'c' indexes (4, 34) 
+  pos 'c' indexes (5, 33) already visited before
+
+from pos 'a' indexes (4, 35) stepping to: 
+  pos 'a' indexes (4, 36) 
+  pos 'a' indexes (3, 35) already visited before
+
+from pos 'a' indexes (3, 36) stepping to: 
+  pos 'a' indexes (3, 37) 
+  pos 'a' indexes (2, 36) already visited before
+  pos 'a' indexes (3, 35) already visited before
+
+from pos 'c' indexes (3, 34) stepping to: 
+  pos 'a' indexes (3, 35) already visited before
+
+from pos 'a' indexes (2, 37) stepping to: 
+  pos 'a' indexes (2, 38) 
+  pos 'a' indexes (1, 37) already visited before
+  pos 'a' indexes (2, 36) already visited before
+
+from pos 'a' indexes (1, 38) stepping to: 
+  pos 'a' indexes (1, 39) 
+  pos 'a' indexes (0, 38) already visited before
+  pos 'a' indexes (1, 37) already visited before
+
+from pos 'a' indexes (9, 12) stepping to: 
+  pos 'a' indexes (8, 12) already visited before
+
+from pos 'a' indexes (9, 10) stepping to: 
+  pos 'a' indexes (8, 10) already visited before
+
+from pos 'a' indexes (8, 9) stepping to: 
+  pos 'a' indexes (8, 10) already visited before
+  pos 'a' indexes (7, 9) already visited before
+
+from pos 'a' indexes (7, 8) stepping to: 
+  pos 'a' indexes (7, 9) already visited before
+  pos 'c' indexes (6, 8) already visited before
+  pos 'c' indexes (7, 7) 
+
+from pos 'c' indexes (6, 15) stepping to: 
+  pos 'c' indexes (6, 16) 
+  pos 'a' indexes (6, 14) already visited before
+
+from pos 'a' indexes (6, 7) stepping to: 
+  pos 'c' indexes (6, 8) already visited before
+  pos 'a' indexes (5, 7) already visited before
+
+from pos 'a' indexes (4, 7) stepping to: 
+  pos 'a' indexes (5, 7) already visited before
+  pos 'a' indexes (4, 6) 
+
+from pos 'a' indexes (5, 6) stepping to: 
+  pos 'a' indexes (5, 7) already visited before
+  pos 'c' indexes (5, 5) 
+
+from pos 'c' indexes (4, 5) stepping to: 
+  pos 'a' indexes (3, 5) already visited before
+  pos 'a' indexes (4, 4) 
+
+from pos 'c' indexes (3, 4) stepping to: 
+  pos 'a' indexes (3, 5) already visited before
+  pos 'a' indexes (2, 4) already visited before
+
+from pos 'c' indexes (2, 3) stepping to: 
+  pos 'c' indexes (3, 3) 
+  pos 'c' indexes (1, 3) already visited before
+  pos 'c' indexes (2, 2) 
+
+from pos 'c' indexes (1, 2) stepping to: 
+  pos 'c' indexes (1, 3) already visited before
+  pos 'c' indexes (0, 2) already visited before
+  pos 'b' indexes (1, 1) 
+
+from pos 'a' indexes (0, 39) stepping to: 
+  pos 'a' indexes (0, 40) 
+  pos 'a' indexes (0, 38) already visited before
+
+from pos 'b' indexes (0, 1) stepping to: 
+  pos 'c' indexes (0, 2) already visited before
+  pos 'a' indexes (0, 0) 
+
+from pos 'c' indexes (13, 27) stepping to: 
+  pos 'c' indexes (14, 27) 
+  pos 'c' indexes (13, 28) 
+  pos 'c' indexes (12, 27) already visited before
+  pos 'c' indexes (13, 26) 
+
+from pos 'c' indexes (12, 28) stepping to: 
+  pos 'c' indexes (12, 29) 
+  pos 'c' indexes (12, 27) already visited before
+
+from pos 'c' indexes (12, 26) stepping to: 
+  pos 'c' indexes (12, 27) already visited before
+  pos 'c' indexes (11, 26) already visited before
+  pos 'c' indexes (12, 25) 
+
+from pos 'c' indexes (11, 25) stepping to: 
+  pos 'c' indexes (11, 26) already visited before
+  pos 'c' indexes (10, 25) already visited before
+  pos 'c' indexes (11, 24) 
+
+from pos 'c' indexes (10, 24) stepping to: 
+  pos 'c' indexes (10, 25) already visited before
+  pos 'c' indexes (9, 24) already visited before
+  pos 'c' indexes (10, 23) 
+
+from pos 'c' indexes (9, 23) stepping to: 
+  pos 'c' indexes (9, 24) already visited before
+  pos 'c' indexes (8, 23) already visited before
+  pos 'c' indexes (9, 22) 
+
+from pos 'c' indexes (8, 22) stepping to: 
+  pos 'c' indexes (8, 23) already visited before
+  pos 'c' indexes (7, 22) already visited before
+  pos 'c' indexes (8, 21) 
+
+from pos 'c' indexes (7, 21) stepping to: 
+  pos 'c' indexes (7, 22) already visited before
+  pos 'c' indexes (7, 20) 
+
+from pos 'c' indexes (7, 33) stepping to: 
+  pos 'c' indexes (7, 34) 
+  pos 'c' indexes (6, 33) already visited before
+
+from pos 'c' indexes (6, 34) stepping to: 
+  pos 'c' indexes (6, 35) 
+  pos 'c' indexes (5, 34) already visited before
+  pos 'c' indexes (6, 33) already visited before
+
+from pos 'a' indexes (5, 35) stepping to: 
+  pos 'c' indexes (5, 36) 
+  pos 'a' indexes (4, 35) already visited before
+  pos 'c' indexes (5, 34) already visited before
+
+from pos 'c' indexes (4, 34) stepping to: 
+  pos 'c' indexes (5, 34) already visited before
+  pos 'a' indexes (4, 35) already visited before
+  pos 'c' indexes (3, 34) already visited before
+
+from pos 'a' indexes (4, 36) stepping to: 
+  pos 'a' indexes (4, 37) 
+  pos 'a' indexes (3, 36) already visited before
+  pos 'a' indexes (4, 35) already visited before
+
+from pos 'a' indexes (3, 37) stepping to: 
+  pos 'a' indexes (3, 38) 
+  pos 'a' indexes (2, 37) already visited before
+  pos 'a' indexes (3, 36) already visited before
+
+from pos 'a' indexes (2, 38) stepping to: 
+  pos 'a' indexes (2, 39) 
+  pos 'a' indexes (1, 38) already visited before
+  pos 'a' indexes (2, 37) already visited before
+
+from pos 'a' indexes (1, 39) stepping to: 
+  pos 'a' indexes (1, 40) 
+  pos 'a' indexes (0, 39) already visited before
+  pos 'a' indexes (1, 38) already visited before
+
+from pos 'c' indexes (7, 7) stepping to: 
+  pos 'a' indexes (7, 8) already visited before
+  pos 'a' indexes (6, 7) already visited before
+
+from pos 'c' indexes (6, 16) stepping to: 
+  pos 'c' indexes (6, 17) 
+  pos 'c' indexes (6, 15) already visited before
+
+from pos 'a' indexes (4, 6) stepping to: 
+  pos 'a' indexes (5, 6) already visited before
+  pos 'a' indexes (4, 7) already visited before
+
+from pos 'c' indexes (5, 5) stepping to: 
+  pos 'a' indexes (5, 6) already visited before
+  pos 'a' indexes (5, 4) 
+
+from pos 'a' indexes (4, 4) stepping to: 
+  pos 'c' indexes (4, 5) already visited before
+  pos 'c' indexes (3, 4) already visited before
+
+from pos 'c' indexes (3, 3) stepping to: 
+  pos 'a' indexes (4, 3) 
+  pos 'c' indexes (2, 3) already visited before
+  pos 'c' indexes (3, 2) 
+
+from pos 'c' indexes (2, 2) stepping to: 
+  pos 'c' indexes (2, 3) already visited before
+  pos 'c' indexes (1, 2) already visited before
+  pos 'b' indexes (2, 1) 
+
+from pos 'b' indexes (1, 1) stepping to: 
+  pos 'c' indexes (1, 2) already visited before
+  pos 'b' indexes (0, 1) already visited before
+  pos 'a' indexes (1, 0) 
+
+from pos 'a' indexes (0, 40) stepping to: 
