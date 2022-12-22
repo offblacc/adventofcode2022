@@ -1,3 +1,5 @@
+# unifinished, should use dp, dfs too slow
+
 data = open('C:/Users/Luka/Documents/aoc/16/input.txt').readlines()
 
 for line in data:

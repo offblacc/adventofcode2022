@@ -1,6 +1,6 @@
 import json, copy
 data = [[]]
-with open('input.txt') as f:  # C:/Users/Luka/Documents/aoc/d13/
+with open('input.txt') as f:
     for line in [x.strip() for x in f]:
         if line == '':
             data.append([])

@@ -2,7 +2,7 @@ import time
 
 start = time.time()
 data = []
-with open('C:/Users/Luka/Documents/aoc/14/input.txt') as f: # with open('C:/Users/Luka/Documents/aoc/14/input.txt') as f:
+with open('input.txt') as f:
     for line in f.readlines():
         data.append([[int(y) for y in x.split(',')]
                     for x in line.strip().split(' -> ')])
@@ -10,7 +10,7 @@ with open('C:/Users/Luka/Documents/aoc/14/input.txt') as f: # with open('C:/User
 sand_start = [500, 0]
 
 wall = []
-for row in data:
+for row in data: # fix this, ugly
     for index_of_pair in range(len(row) - 1):
         if row[index_of_pair][0] < row[index_of_pair + 1][0]:
             for j in range(row[index_of_pair][0], row[index_of_pair + 1][0] + 1):

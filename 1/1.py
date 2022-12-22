@@ -1,0 +1,1 @@
+print(*(lambda s:(s[-1], sum(s[-3:])))(sorted(map(sum, (sorted(int(cnt.strip()) for cnt in x.split('\n')) for x in open('input.txt').read().split('\n\n'))))), sep='\n')
